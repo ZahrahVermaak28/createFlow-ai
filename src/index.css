@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+@layer utilities {
+  .gradient-brand {
+    background: linear-gradient(135deg, #5B3FD6 0%, #8B6FE8 50%, #E76F8A 100%);
+  }
+  .gradient-brand-hover:hover {
+    background: linear-gradient(135deg, #4E32C7 0%, #7D5FE0 50%, #DC5B78 100%);
+  }
+  .text-gradient-brand {
+    background: linear-gradient(135deg, #5B3FD6 0%, #8B6FE8 50%, #E76F8A 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+}
+
+body {
+  font-family: 'Plus Jakarta Sans', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  background-color: #F8F7FC;
+  color: #1F1F2E;
+}
