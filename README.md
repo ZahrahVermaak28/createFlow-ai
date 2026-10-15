@@ -10,7 +10,7 @@ This project was developed as part of my journey in exploring Generative AI, pro
 
 ## 🖥️ Application Preview
 
-![CreateFlow AI Homepage](Creat Flow AI homepage.png)
+![CreateFlow AI Homepage](Creat%20Flow%20AI%20homepage.png)
 
 ## ✨ Key Features
 
