@@ -8,6 +8,10 @@ The platform was designed to make content creation easier by combining multiple 
 
 This project was developed as part of my journey in exploring Generative AI, prompt engineering, and full-stack web development.
 
+## 🖥️ Application Preview
+
+![CreateFlow AI Homepage](Creat Flow AI homepage.png)
+
 ## ✨ Key Features
 
 ### 📝 AI Text Generator
